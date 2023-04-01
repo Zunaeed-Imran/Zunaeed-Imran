@@ -1,6 +1,8 @@
 ###👋 Hello there, I'm MD. Zunaeed Imran
 #### Junior web developer
-![Junior web developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/316257440_3279819445667369_6547872652454419712_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8oeD5p856eUAX9Q-K2_&_nc_ht=scontent.fdac14-1.fna&oh=00_AfB7dRwuyqiLT-BH4RDp2SpUcVjw9pKwCt4PWE0lbY9zBw&oe=64132F58)
+
+[![Junior web developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/316257440_3279819445667369_6547872652454419712_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8oeD5p856eUAX9Q-K2_&_nc_ht=scontent.fdac14-1.fna&oh=00_AfB7dRwuyqiLT-BH4RDp2SpUcVjw9pKwCt4PWE0lbY9zBw&oe=64132F58)](https://scontent.frjh3-1.fna.fbcdn.net/v/t39.30808-6/316257440_3279819445667369_6547872652454419712_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEz0z23qizWlGxyyPenIQDymT2Zh_jZKVmZPZmH-NkpWSV6FBN3RIemuAYatu_u5O51vE448AocLhUpohfsrgyF&_nc_ohc=UzgbMpPg9rEAX-Mejt7&_nc_ht=scontent.frjh3-1.fna&oh=00_AfBevcjLo4P5HVe5rO3HazYmMtW7tZTiVi9-vZyDtKrNXw&oe=642CE498)
+
 
 I have experience working with various web development tools and frameworks such as Bootstrap, jQuery, javaScript, and HTML/CSS, and I'm constantly exploring new technologies to expand my skillset. I'm particularly interested in front-end development,
 As a new junior web developer, I'm excited to apply my skills and knowledge to real-world projects and learn from experienced developers in the industry. I'm a quick learner and a team player,
