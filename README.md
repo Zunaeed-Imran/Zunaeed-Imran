@@ -1,10 +1,9 @@
+https://www.facebook.com/photo/?fbid=3279819449000702&set=a.1387302524919080
+
 ###👋 Hello there, I'm MD. Zunaeed Imran
-#### Junior web developer
+#### Junior web developer.
 
-[![Junior web developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/316257440_3279819445667369_6547872652454419712_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8oeD5p856eUAX9Q-K2_&_nc_ht=scontent.fdac14-1.fna&oh=00_AfB7dRwuyqiLT-BH4RDp2SpUcVjw9pKwCt4PWE0lbY9zBw&oe=64132F58)](https://scontent.frjh3-1.fna.fbcdn.net/v/t39.30808-6/316257440_3279819445667369_6547872652454419712_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEz0z23qizWlGxyyPenIQDymT2Zh_jZKVmZPZmH-NkpWSV6FBN3RIemuAYatu_u5O51vE448AocLhUpohfsrgyF&_nc_ohc=UzgbMpPg9rEAX-Mejt7&_nc_ht=scontent.frjh3-1.fna&oh=00_AfBevcjLo4P5HVe5rO3HazYmMtW7tZTiVi9-vZyDtKrNXw&oe=642CE498)
-
-
-I have experience working with various web development tools and frameworks such as Bootstrap, jQuery, javaScript, and HTML/CSS, and I'm constantly exploring new technologies to expand my skillset. I'm particularly interested in front-end development,
+I have experience working with various web development tools and frameworks such as Bootstrap, jQuery, javaScript, C++ and HTML/CSS, and I'm constantly exploring new technologies to expand my skillset. I'm particularly interested in front-end development,
 As a new junior web developer, I'm excited to apply my skills and knowledge to real-world projects and learn from experienced developers in the industry. I'm a quick learner and a team player,
 Thank you for taking the time to get to know me.
 
@@ -14,7 +13,6 @@ Skills: javaScript / HTML / CSS / C++ / Adobe-Photoshop / Adobe-Premier-Pro
 - 🌱 I’m currently learning C++ 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: zunaeede@gmail.com 
-- 😄 Pronouns: 🤔 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zunaeed-Imran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-zunaeed-imran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zunaeed.emran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/imranzunaeed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ZunaeedI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Imran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@zunaeedimran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zunaeedimran142.w3spaces.com/?fbclid=IwAR30d88X4W2U1Viz0hwwO0Fk3l0b_WYe-tdM4ilCjLmXeH_YAtrSxaAoSFk)  
