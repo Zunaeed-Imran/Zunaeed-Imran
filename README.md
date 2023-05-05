@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/124905281/229305021-d117d9ba-322d-40f8-ae85-d3ee5ac0cc8f.png)
+https://media.licdn.com/dms/image/D5616AQHOSVAJF_1Rzg/profile-displaybackgroundimage-shrink_350_1400/0/1683308299521?e=1688601600&v=beta&t=1RIl6q1Qh9QuPbrmT8GgHqa7n-7KwrZ7X97Wlt3BIe0
 
 ###👋 Hello there, I'm MD. Zunaeed Imran
 #### Junior web developer.
