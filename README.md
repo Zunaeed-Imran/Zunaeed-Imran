@@ -10,7 +10,7 @@ Thank you for taking the time to get to know me.
 Skills: javaScript / HTML / CSS / C++ / Adobe-Photoshop / Adobe-Premier-Pro
 
 - 🔭 I’m currently working on Itlogiko 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Vanilla JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: zunaeede@gmail.com 
 
