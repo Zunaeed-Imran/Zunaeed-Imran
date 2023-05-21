@@ -2,7 +2,7 @@
 
 ###👋 Hello there, I'm MD. Zunaeed Imran
 #### Junior web developer.
-
+![Profile views](https://gpvc.arturio.dev/Zunaeed-Imran)  
 I have experience working with various web development tools and frameworks such as HTML, CSS, javaScript, C++, and  and I'm constantly exploring new technologies to expand my skillset. I'm particularly interested in front-end development,
 As a new junior web developer, I'm excited to apply my skills and knowledge to real-world projects and learn from experienced developers in the industry. I'm a quick learner and a team player,
 Thank you for taking the time to get to know me.
@@ -24,10 +24,6 @@ Skills: javaScript / HTML / CSS / C++ / Adobe-Photoshop / Adobe-Premier-Pro
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zunaeed-Imran&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zunaeed-Imran)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Zunaeed-Imran)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Zunaeed-Imran)  
-
-![Profile views](https://gpvc.arturio.dev/Zunaeed-Imran)  
