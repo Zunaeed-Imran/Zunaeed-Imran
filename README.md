@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/124905281/236534483-b1f91513-804d-4fe3-8b80-35dfc6026151.png)
 
-###👋 Hello there, I'm MD. Zunaeed Imran
+### Hello there, I'm MD. Zunaeed Imran
 #### Junior web developer.
 ![Profile views](https://gpvc.arturio.dev/Zunaeed-Imran)  
 I have experience working with various web development tools and frameworks such as HTML, CSS, Bootstrap, javaScript, C++, and  and I'm constantly exploring new technologies to expand my skillset. I'm particularly interested in front-end development,
