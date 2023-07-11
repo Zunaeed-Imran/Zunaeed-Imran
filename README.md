@@ -9,7 +9,7 @@ Thank you for taking the time to get to know me.
 
 Skills: HTML / CSS, Bootstrap, tailwind /javaScript / PHP /C++  / MySQL /git / Adobe-Photoshop / Adobe-Premier-Pro
 
-- 🔭 I’m currently working on Itlogiko. 
+- 🔭 I’m currently working on ITLogiko. 
 - 🌱 I’m currently learning PHP.
 - 👯 I’m looking to collaborate on Github. 
 - 📫 How to reach me: zunaeede@gmail.com 
