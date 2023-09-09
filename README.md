@@ -20,7 +20,7 @@ Skills: HTML / CSS, Bootstrap, tailwind /javaScript / PHP /C++  / MySQL /git / A
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zunaeed-Imran)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaeed-Imran)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaeed-Imran&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zunaeed-Imran&show_icons=true&theme=radical)
 
