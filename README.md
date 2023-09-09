@@ -2,7 +2,6 @@
 
 ### Hello there, I'm MD. Zunaeed Imran
 #### Junior web developer.
-![Profile views](https://gpvc.arturio.dev/Zunaeed-Imran)  
 
 ![](https://komarev.com/ghpvc/?username=Zunaeed-Imran&label=PROFILE+VIEWS)
 
