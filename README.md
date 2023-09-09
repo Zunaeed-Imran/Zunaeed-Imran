@@ -3,8 +3,6 @@
 ### Hello there, I'm MD. Zunaeed Imran
 #### Junior web developer.
 ![Profile views](https://gpvc.arturio.dev/Zunaeed-Imran)  
-[![HitCount](https://hits.dwyl.com/{username}/{project-name}.svg)](https://hits.dwyl.com/{username}/{project-name})
-
 I have experience working with various web development tools and frameworks such as HTML, CSS, Bootstrap, javaScript, C++, and  and I'm constantly exploring new technologies to expand my skillset. I'm particularly interested in front-end development,
 As a new junior web developer, I'm excited to apply my skills and knowledge to real-world projects and learn from experienced developers in the industry. I'm a quick learner and a team player,
 Thank you for taking the time to get to know me.
