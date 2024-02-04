@@ -9,10 +9,10 @@ I have experience working with various web development tools and frameworks such
 As a new junior web developer, I'm excited to apply my skills and knowledge to real-world projects and learn from experienced developers in the industry. I'm a quick learner and a team player,
 Thank you for taking the time to get to know me.
 
-Skills: HTML / CSS, Bootstrap, tailwind /javaScript / PHP /C++  / MySQL /git / Adobe-Photoshop / Adobe-Premier-Pro
+Skills: HTML / CSS, Bootstrap, tailwind /javaScript /React/ PHP /C++  / MySQL /git / Adobe-Photoshop / Adobe-Premier-Pro
 
 - 🔭 I’m currently working on ITLogiko. 
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Github. 
 - 📫 How to reach me: zunaeede@gmail.com 
 
