@@ -5,15 +5,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Zunaeed-Imran&label=PROFILE+VIEWS)
 <p align="left"> <a href="https://twitter.com/ZunaeedI" target="blank"><img src="https://img.shields.io/twitter/follow/ZunaeedI?logo=twitter&style=for-the-badge" alt="ZunaeedI" /></a> </p>
-I have experience working with various web development tools and frameworks such as HTML, CSS, Bootstrap, javaScript, C++, and  and I'm constantly exploring new technologies to expand my skillset. I'm particularly interested in front-end development,
-As a new junior web developer, I'm excited to apply my skills and knowledge to real-world projects and learn from experienced developers in the industry. I'm a quick learner and a team player,
+I have experience working with various web development tools and frameworks such as HTML, CSS, Bootstrap, javaScript, C++, and  and I'm constantly exploring new technologies to expand my skillset. I'm particularly interested in full-stack development,
+As a new junior web developer, I'm excited to apply my skills and knowledge to real-world projects and learn from experienced developers in the industry. I'm a quick learner,
 Thank you for taking the time to get to know me.
 
 Skills: HTML / CSS, Bootstrap, tailwind /javaScript /React/Redux/ PHP /C++  / MySQL /git / Adobe-Photoshop / Adobe-Premier-Pro
 
-- 🔭 I’m currently working on ITLogiko. 
+- 🔭 I’m currently InternShip on ITLogiko. 
 - 🌱 I’m currently learning Redux.
-- 👯 I’m looking to collaborate on Github. 
 - 📫 How to reach me: zunaeede@gmail.com 
 
 
