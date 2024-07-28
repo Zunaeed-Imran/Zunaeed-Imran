@@ -15,7 +15,6 @@ Skills: HTML / CSS, Bootstrap, tailwind /javaScript /React/Redux/ PHP /C++ /
 MySQL /git / Adobe-Photoshop / Adobe-Premier-Pro
 
 - 🔭 I’m currently InternShip on ITLogiko.
-- 🌱 I’m currently learning Laravel.
 - 📫 How to reach me: zunaeede@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="background-color:#a7bad1;" alt='github' height='40'>](https://github.com/Zunaeed-Imran)
